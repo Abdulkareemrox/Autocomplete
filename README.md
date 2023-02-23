@@ -1,7 +1,5 @@
-# Autocomplete
-
 Steps to run project:
 
-git clone <Project>
-npm install
-npm start (your application will start in localhost:3000)
+1) git clone https://github.com/Abdulkareemrox/Autocomplete.git
+2) npm install 
+3) npm start (your application will start in localhost:3000)
